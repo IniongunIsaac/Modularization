@@ -3,12 +3,22 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ModularizationExample.iml" filepath="$PROJECT_DIR$/ModularizationExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/ModularizationExample-app.iml" filepath="$PROJECT_DIR$/app/ModularizationExample-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buildSrc/ModularizationExample-buildSrc.iml" filepath="$PROJECT_DIR$/buildSrc/ModularizationExample-buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/features/ModularizationExample-features.iml" filepath="$PROJECT_DIR$/features/ModularizationExample-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/ModularizationExample-libraries.iml" filepath="$PROJECT_DIR$/libraries/ModularizationExample-libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudioProjects-ModularizationExample.iml" filepath="$PROJECT_DIR$/StudioProjects-ModularizationExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/libraries/actions/actions.iml" filepath="$PROJECT_DIR$/libraries/actions/actions.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/buildSrc/buildSrc.iml" filepath="$PROJECT_DIR$/buildSrc/buildSrc.iml" />
       <module fileurl="file://$PROJECT_DIR$/features/dashboard/dashboard.iml" filepath="$PROJECT_DIR$/features/dashboard/dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/features/features.iml" filepath="$PROJECT_DIR$/features/features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/features/dashboard/features-dashboard.iml" filepath="$PROJECT_DIR$/features/dashboard/features-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/features/login/features-login.iml" filepath="$PROJECT_DIR$/features/login/features-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/features/sharing/features-sharing.iml" filepath="$PROJECT_DIR$/features/sharing/features-sharing.iml" />
       <module fileurl="file://$PROJECT_DIR$/libraries/libraries.iml" filepath="$PROJECT_DIR$/libraries/libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/actions/libraries-actions.iml" filepath="$PROJECT_DIR$/libraries/actions/libraries-actions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/ui-components/libraries-ui-components.iml" filepath="$PROJECT_DIR$/libraries/ui-components/libraries-ui-components.iml" />
       <module fileurl="file://$PROJECT_DIR$/features/login/login.iml" filepath="$PROJECT_DIR$/features/login/login.iml" />
       <module fileurl="file://$PROJECT_DIR$/features/sharing/sharing.iml" filepath="$PROJECT_DIR$/features/sharing/sharing.iml" />
       <module fileurl="file://$PROJECT_DIR$/libraries/ui-components/ui-components.iml" filepath="$PROJECT_DIR$/libraries/ui-components/ui-components.iml" />

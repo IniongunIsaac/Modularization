@@ -10,4 +10,9 @@ dependencies {
     implementation Deps.androidx_core
 
     testImplementation Deps.testlib_junit
+    compile "androidx.core:core-ktx:+"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+}
+repositories {
+    mavenCentral()
 }

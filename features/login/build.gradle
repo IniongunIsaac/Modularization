@@ -16,4 +16,9 @@ dependencies {
     androidTestImplementation Deps.testandroidx_runner
     androidTestImplementation Deps.testandroidx_rules
     androidTestImplementation Deps.testandroidx_espressocore
+    compile "androidx.core:core-ktx:+"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+}
+repositories {
+    mavenCentral()
 }
